@@ -1,0 +1,13 @@
+BDEPEND=>=dev-lang/go-1.12 app-arch/unzip
+DEFINED_PHASES=compile install postinst prepare unpack
+DESCRIPTION=GitHub CLI
+EAPI=7
+HOMEPAGE=https://github.com/cli/cli
+KEYWORDS=*
+LICENSE=MIT Apache-2.0 BSD BSD-2 MPL-2.0
+RDEPEND=>=dev-vcs/git-1.7.3
+RESTRICT=strip test
+SLOT=0
+SRC_URI=https://github.com/cli/cli/tarball/89cbcfe7eb186ff4edbe10792d17bdc55b04f297 -> cli-2.54.0-89cbcfe.tar.gz https://regen.mordor/dc/44/6a/dc446a08c74b5f1b6dcfd41bdfa015fa4d355baf68658eb2ebffe1705a00784de672a2d602bdfdc3e4c8c6dc6a6035e7a94cb8114ff1b7041aee7f5a4aaf4b78 -> github-cli-2.54.0-funtoo-go-bundle-01b77b32616f1df4061cf1da72974e6fb1bd38ac9505aa80ecc0de9e2cf56d70dead7e39d451c750b841239dd4b8c78c0c3a810106b492b485adfdd3ca7208da.tar.gz
+_eclasses_=bash-completion-r1	47a7402d95930413ce25ba8d857339bb	go-module	cb10a443c46556a15ed035d7a99128e8	multilib	d410501a125f99ffb560b0c523cd3d1e	toolchain-funcs	24921b57d6561d87cbef4916a296ada4	xdg-utils	14d00d009167652b1fa363e55effe213
+_md5_=afedfa2e5053052e2f919cf7c72f17c3
