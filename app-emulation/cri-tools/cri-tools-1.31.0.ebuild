@@ -6,8 +6,8 @@ inherit bash-completion-r1 go-module
 
 go-module_set_globals
 
-SRC_URI="https://github.com/kubernetes-sigs/cri-tools/tarball/b633b386d6ec2c5743999a56c7df332b43759f9a -> cri-tools-1.30.1-b633b38.tar.gz
-https://regen.mordor/51/22/57/51225758af2219fc6d94b609db32814de2b58c85994cb8e3f7bd90aae6bfd865ffc654a0eb7cda05f0336992714c91c22185aad61a5277d1ce141151a2ddea6c -> cri-tools-1.30.1-funtoo-go-bundle-5f22a834c9d8fccc6b8b93a17ab431df221d08836dd5a001c3f45d92a2f715195bf963128904f799d2b0fae47ad9c2aa03880f504f4fb93c8c47fe3d9bc0cef0.tar.gz"
+SRC_URI="https://github.com/kubernetes-sigs/cri-tools/tarball/5c35c71f607a9baf63e92109ae95b96d9424ba0d -> cri-tools-1.31.0-5c35c71.tar.gz
+https://regen.mordor/2e/4d/d1/2e4dd1510f1e255e948ab86158c30caa68696828fd8594e307b4e8f9cd4ab8af36e97128e0100e9610ba08e12aedea685c3a9f8614f4fb379469d2f35e3f0f89 -> cri-tools-1.31.0-funtoo-go-bundle-142e2eabfa4a58ee3cda08136ada1ae200b8789d9fe7bb6a42792eba066c3c1e6dbce92ed728e3740d8f07b97e57fa0726b15f346b948ec35a9c7d5d7a87a36f.tar.gz"
 
 DESCRIPTION="CLI and validation tools for Kubelet Container Runtime (CRI)"
 HOMEPAGE="https://github.com/kubernetes-sigs/cri-tools"
