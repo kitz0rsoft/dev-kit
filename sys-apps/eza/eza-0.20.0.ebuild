@@ -6,8 +6,8 @@ inherit bash-completion-r1 cargo
 
 DESCRIPTION="A modern alternative to ls"
 HOMEPAGE="https://eza.rocks https://github.com/eza-community/eza"
-SRC_URI="https://github.com/eza-community/eza/tarball/34f2f48f00a18904ce1ae81db3274efd24bec4a1 -> eza-0.19.4-34f2f48.tar.gz
-https://regen.mordor/b0/bc/2b/b0bc2bd1b2320085953eeb82680b7b7956754ac4a216b19e34b80c534f366b3ec7a7d5f1aba7a07b09bb6897a3a740194c10e6dcbd5ea07024952f331666db71 -> eza-0.19.4-funtoo-crates-bundle-081f59382ab8b995b5ccf2dbeefae8d007d98ab8c3ca63ac8e2947287a290621855c5e89328442d0f4083d1f5cd614f6622286201629edb4da025f4c24e9ede7.tar.gz"
+SRC_URI="https://github.com/eza-community/eza/tarball/35cf540ee5fd4007bb2271a1000bc1f18ed92527 -> eza-0.20.0-35cf540.tar.gz
+https://regen.mordor/f3/20/b7/f320b726a68e5e7529fe86337b4de06987914d5848df43f688488f1e6dce8ba9c960f31e3fa68dc72fafef4942c0c219959fb11c6bf60e77b85616ab876a9350 -> eza-0.20.0-funtoo-crates-bundle-97f06a3e8825769a3aabc8bd5bebf3ddd8d8142e2682da68e6371d727165a37d0a14e0efab13f928a215a5b8826a93f46676a98e5f44c454e7e97274e4b77818.tar.gz"
 
 LICENSE="Apache-2.0 Boost-1.0 BSD BSD-2 CC0-1.0 ISC LGPL-3+ MIT Apache-2.0 Unlicense ZLIB"
 SLOT="0"
