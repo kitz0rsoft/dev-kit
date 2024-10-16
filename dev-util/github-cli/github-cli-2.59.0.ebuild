@@ -102,10 +102,10 @@ EGO_SUM=(
 	"github.com/cli/browser v1.0.0/go.mod"
 	"github.com/cli/browser v1.3.0"
 	"github.com/cli/browser v1.3.0/go.mod"
-	"github.com/cli/go-gh/v2 v2.10.0"
-	"github.com/cli/go-gh/v2 v2.10.0/go.mod"
-	"github.com/cli/oauth v1.0.1"
-	"github.com/cli/oauth v1.0.1/go.mod"
+	"github.com/cli/go-gh/v2 v2.11.0"
+	"github.com/cli/go-gh/v2 v2.11.0/go.mod"
+	"github.com/cli/oauth v1.1.1"
+	"github.com/cli/oauth v1.1.1/go.mod"
 	"github.com/cli/safeexec v1.0.0/go.mod"
 	"github.com/cli/safeexec v1.0.1"
 	"github.com/cli/safeexec v1.0.1/go.mod"
@@ -373,8 +373,8 @@ EGO_SUM=(
 	"github.com/rivo/uniseg v0.4.7/go.mod"
 	"github.com/rodaine/table v1.0.1"
 	"github.com/rodaine/table v1.0.1/go.mod"
-	"github.com/rogpeppe/go-internal v1.11.0"
-	"github.com/rogpeppe/go-internal v1.11.0/go.mod"
+	"github.com/rogpeppe/go-internal v1.13.1"
+	"github.com/rogpeppe/go-internal v1.13.1/go.mod"
 	"github.com/russross/blackfriday/v2 v2.1.0"
 	"github.com/russross/blackfriday/v2 v2.1.0/go.mod"
 	"github.com/ryanuber/go-glob v1.0.0"
@@ -522,8 +522,8 @@ EGO_SUM=(
 	"golang.org/x/sys v0.0.0-20220811171246-fbc7d0a398ab/go.mod"
 	"golang.org/x/sys v0.0.0-20220906165534-d0df966e6959/go.mod"
 	"golang.org/x/sys v0.6.0/go.mod"
-	"golang.org/x/sys v0.25.0"
-	"golang.org/x/sys v0.25.0/go.mod"
+	"golang.org/x/sys v0.26.0"
+	"golang.org/x/sys v0.26.0/go.mod"
 	"golang.org/x/term v0.0.0-20201126162022-7de9c90e9dd1/go.mod"
 	"golang.org/x/term v0.0.0-20210927222741-03fcf44c2211/go.mod"
 	"golang.org/x/term v0.24.0"
@@ -540,8 +540,8 @@ EGO_SUM=(
 	"golang.org/x/tools v0.0.0-20180917221912-90fa682c2a6e/go.mod"
 	"golang.org/x/tools v0.0.0-20191119224855-298f0cb1881e/go.mod"
 	"golang.org/x/tools v0.1.12/go.mod"
-	"golang.org/x/tools v0.21.1-0.20240508182429-e35e4ccd0d2d"
-	"golang.org/x/tools v0.21.1-0.20240508182429-e35e4ccd0d2d/go.mod"
+	"golang.org/x/tools v0.22.0"
+	"golang.org/x/tools v0.22.0/go.mod"
 	"golang.org/x/xerrors v0.0.0-20190717185122-a985d3407aa7/go.mod"
 	"google.golang.org/api v0.172.0"
 	"google.golang.org/api v0.172.0/go.mod"
@@ -580,8 +580,8 @@ go-module_set_globals
 
 DESCRIPTION="GitHub CLI"
 HOMEPAGE="https://github.com/cli/cli"
-SRC_URI="https://github.com/cli/cli/tarball/3f3acde3936455127a5d7a8ca04d0ce561e29811 -> cli-2.58.0-3f3acde.tar.gz
-https://regen.mordor/ef/8b/73/ef8b730039adb672608cf32b249226a4f8fc5a78277ce8be4daf5de838225ca7b14f6d622ca9f07608477e03719498058d32747a7d63562dfdbf996858006be7 -> github-cli-2.58.0-funtoo-go-bundle-f125e0f6243c11b87e4d836ec4a37e38b788c30f3e4f2a6b671e602041b5912e1205c949e7ed7e0a94e89c52eda3e1150c0dd25fcaa16856ac46bd586a67bb8c.tar.gz"
+SRC_URI="https://github.com/cli/cli/tarball/7aef6ec39137adb601d31d13fce8b6f26b4903fa -> cli-2.59.0-7aef6ec.tar.gz
+https://regen.mordor/2f/ce/d1/2fced1b9190e0b0be8cb1a1989c05c216f5f456a3edbefdd6f877562314ed3d1538214a166adadb0d98da728f368ed7714a0e6f28aa655b047f4e9eca1e0e94a -> github-cli-2.59.0-funtoo-go-bundle-01f2346f156fcf9b387964bc8294209fa010da88f3a214d0c8fc22fba21d98c0a72de80eb0bc8b77840b5e338f82e2218f1a56b8f5a61e9ebfcbf3a40ad2723f.tar.gz"
 KEYWORDS="*"
 LICENSE="MIT Apache-2.0 BSD BSD-2 MPL-2.0"
 SLOT="0"
@@ -593,7 +593,7 @@ post_src_unpack() {
 }
 
 src_compile() {
-	export GH_VERSION="v2.58.0"
+	export GH_VERSION="v2.59.0"
 	# Go LDFLAGS are not the same as GCC/Binutils LDFLAGS
 	unset LDFLAGS
 	# Once we set up cross compiling, this line will need to be adjusted
