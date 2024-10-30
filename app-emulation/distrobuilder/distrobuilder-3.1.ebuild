@@ -658,7 +658,7 @@ EGO_SUM=(
 go-module_set_globals
 
 SRC_URI="https://github.com/lxc/distrobuilder/tarball/c2231e4ee53402fcbd2877362a8683716fc0e71f -> distrobuilder-3.1-c2231e4.tar.gz
-https://regen.mordor/6f/b9/bf/6fb9bf0c48cc4f73a61d788338190bf4e37ee97ee594a6813d0a963a85156486ade1ec4dcf9da3aa6490a54e07133b0d8443d476ef66055bbb85dbcb2b755fe5 -> distrobuilder-3.1-funtoo-go-bundle-823424a3962d55a62de6118b4accb6bcf46c75d49a741a99ffbbd2a0128a2cf9501fb52324c4354c5f145042044661e8538f62071293e6fe050bc54be390f9ff.tar.gz"
+https://distfiles.macaronios.org/6f/b9/bf/6fb9bf0c48cc4f73a61d788338190bf4e37ee97ee594a6813d0a963a85156486ade1ec4dcf9da3aa6490a54e07133b0d8443d476ef66055bbb85dbcb2b755fe5 -> distrobuilder-3.1-funtoo-go-bundle-823424a3962d55a62de6118b4accb6bcf46c75d49a741a99ffbbd2a0128a2cf9501fb52324c4354c5f145042044661e8538f62071293e6fe050bc54be390f9ff.tar.gz"
 
 LICENSE="Apache-2.0"
 SLOT="0"

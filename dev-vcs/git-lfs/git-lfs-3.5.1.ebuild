@@ -150,7 +150,7 @@ DESCRIPTION="Git extension for versioning large files"
 HOMEPAGE="https://git-lfs.github.com/"
 
 SRC_URI="https://github.com/git-lfs/git-lfs/tarball/a04e6bd8b85de24de7585c5e203f021d79336766 -> git-lfs-3.5.1-a04e6bd.tar.gz
-https://regen.mordor/33/34/d5/3334d58a0843c871c6e259abbd1855a0c16512a58e73c106f0286e20e389e1a69bdaf9d03ce6a106910fdf55ef0b5b5a67a7aa69575bfe35cbfe343e254ade64 -> git-lfs-3.5.1-funtoo-go-bundle-398518790d3889083ff8deb7e057fcec4feace373be142a6e4ba804ddb7fc413bee160c8ee97ecd0498de2577b3dfdbe968c445282939b6e23b0dec2347daf74.tar.gz"
+https://distfiles.macaronios.org/33/34/d5/3334d58a0843c871c6e259abbd1855a0c16512a58e73c106f0286e20e389e1a69bdaf9d03ce6a106910fdf55ef0b5b5a67a7aa69575bfe35cbfe343e254ade64 -> git-lfs-3.5.1-funtoo-go-bundle-398518790d3889083ff8deb7e057fcec4feace373be142a6e4ba804ddb7fc413bee160c8ee97ecd0498de2577b3dfdbe968c445282939b6e23b0dec2347daf74.tar.gz"
 KEYWORDS="*"
 
 LICENSE="Apache-2.0 BSD BSD-2 BSD-4 ISC MIT"
