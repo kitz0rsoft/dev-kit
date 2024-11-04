@@ -32,7 +32,7 @@ go-module_set_globals
 DESCRIPTION="A zero-config tool to make locally trusted development certificates"
 HOMEPAGE="https://github.com/FiloSottile/mkcert"
 SRC_URI="https://github.com/FiloSottile/mkcert/tarball/2a46726cebac0ff4e1f133d90b4e4c42f1edf44a -> mkcert-1.4.4-2a46726.tar.gz
-https://distfiles.macaronios.org/bc/da/72/bcda72df3fbbeb7abaa72c9112657bc7ba6b77c428535b96b005f2c25dc719f6f7e83239f63bb5e343889ff0a75fa0358d885e9cc7e28c9efb9853779c5b1ac2 -> mkcert-1.4.4-funtoo-go-bundle-1ada4f76bdb8fd3e8528df10f42ea02a4e3f3a0d97a1816c91c4b819b0dc644fd17e60bb9250865b0fef6990bad95e7bb98ab4107bc27439a0c7d2c182165bc7.tar.gz"
+https://regen.mordor/bc/da/72/bcda72df3fbbeb7abaa72c9112657bc7ba6b77c428535b96b005f2c25dc719f6f7e83239f63bb5e343889ff0a75fa0358d885e9cc7e28c9efb9853779c5b1ac2 -> mkcert-1.4.4-funtoo-go-bundle-1ada4f76bdb8fd3e8528df10f42ea02a4e3f3a0d97a1816c91c4b819b0dc644fd17e60bb9250865b0fef6990bad95e7bb98ab4107bc27439a0c7d2c182165bc7.tar.gz"
 
 LICENSE="BSD"
 SLOT="0"

@@ -645,7 +645,7 @@ go-module_set_globals
 DESCRIPTION="Manage your dotfiles across multiple diverse machines, securely."
 HOMEPAGE="https://github.com/twpayne/chezmoi"
 SRC_URI="https://github.com/twpayne/chezmoi/tarball/c6f57876f17a52de87636746cba0a1124439cbfc -> chezmoi-2.53.1-c6f5787.tar.gz
-https://distfiles.macaronios.org/27/96/91/27969140ebfa7ea466659e80eecc749efd597af67af314d3a17aaad06ef120f79d5c5910454ca8fe4ab2fb3aa0213b7995ec99f73dc8a88889cd9d486253210e -> chezmoi-2.53.1-funtoo-go-bundle-e97de01557939d1b1cc3535a265971667a72a00554fb94f79863888c74aeceb7ed25cb85af7afb3a04a7bd44203789ec06e855245eb98a5eedc5250f0293b53b.tar.gz"
+https://regen.mordor/27/96/91/27969140ebfa7ea466659e80eecc749efd597af67af314d3a17aaad06ef120f79d5c5910454ca8fe4ab2fb3aa0213b7995ec99f73dc8a88889cd9d486253210e -> chezmoi-2.53.1-funtoo-go-bundle-e97de01557939d1b1cc3535a265971667a72a00554fb94f79863888c74aeceb7ed25cb85af7afb3a04a7bd44203789ec06e855245eb98a5eedc5250f0293b53b.tar.gz"
 
 LICENSE="MIT"
 SLOT="0"

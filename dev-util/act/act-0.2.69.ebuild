@@ -358,7 +358,7 @@ go-module_set_globals
 DESCRIPTION="Run your GitHub Actions locally"
 HOMEPAGE="https://github.com/nektos/act"
 SRC_URI="https://github.com/nektos/act/tarball/ccb9537aff289cc98149fde714d3c1a576e517c5 -> act-0.2.69-ccb9537.tar.gz
-https://distfiles.macaronios.org/14/6f/4b/146f4b1dfdc1c5f482266d283ba33af464a33f0a55826a73bebf899e3b40124bc9e69e4caf23b691eb90872b71e6b223911efa7e1ba894cd3c2b9bdb0923db0c -> act-0.2.69-funtoo-go-bundle-49f1c27a82c0caf953ba4f1038bbebfda2ef650eb385450ee3d99f1e9252d405bd28a528ba8a788fdfaa5062de1fd92aae76744f70d9a7055782d68fd19fe523.tar.gz"
+https://regen.mordor/14/6f/4b/146f4b1dfdc1c5f482266d283ba33af464a33f0a55826a73bebf899e3b40124bc9e69e4caf23b691eb90872b71e6b223911efa7e1ba894cd3c2b9bdb0923db0c -> act-0.2.69-funtoo-go-bundle-49f1c27a82c0caf953ba4f1038bbebfda2ef650eb385450ee3d99f1e9252d405bd28a528ba8a788fdfaa5062de1fd92aae76744f70d9a7055782d68fd19fe523.tar.gz"
 
 RDEPEND="
 	app-emulation/docker
