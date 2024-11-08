@@ -122,8 +122,8 @@ EGO_SUM=(
 	"github.com/cpuguy83/go-md2man/v2 v2.0.5"
 	"github.com/cpuguy83/go-md2man/v2 v2.0.5/go.mod"
 	"github.com/creack/pty v1.1.17/go.mod"
-	"github.com/creack/pty v1.1.23"
-	"github.com/creack/pty v1.1.23/go.mod"
+	"github.com/creack/pty v1.1.24"
+	"github.com/creack/pty v1.1.24/go.mod"
 	"github.com/cyberphone/json-canonicalization v0.0.0-20220623050100-57a0ce2678a7"
 	"github.com/cyberphone/json-canonicalization v0.0.0-20220623050100-57a0ce2678a7/go.mod"
 	"github.com/danieljoos/wincred v1.2.1"
@@ -582,8 +582,8 @@ go-module_set_globals
 
 DESCRIPTION="GitHub CLI"
 HOMEPAGE="https://github.com/cli/cli"
-SRC_URI="https://github.com/cli/cli/tarball/a381ca5dc43eaba63d2356b1442da119864a17ac -> cli-2.60.1-a381ca5.tar.gz
-https://regen.mordor/eb/06/88/eb06889385a5eff007b7538a376edd30be5dc2796df0f9848a12d72ed9bc7cf569b5bb2c5c0c7bdc48d1241f15dd32b5de3de390e701baadf73982a24dc1b41d -> github-cli-2.60.1-funtoo-go-bundle-7434c75ab638805873f632d21895b867761a73d4a30921f3e5989f885cd0b5461be75ce504f781fc8cc902605a74930fc5153d9afbc24e1deca3647496210749.tar.gz"
+SRC_URI="https://github.com/cli/cli/tarball/215e4f440f56a0652e5c0f64614b64edcf1da1bc -> cli-2.61.0-215e4f4.tar.gz
+https://regen.mordor/5e/a6/75/5ea6754c866a0f905be7f26c6a6297e3cd67bef1990e98081f0177b22526c028378b94f1d0b06a2cba8cdc7f3c2217e1cdcb71afea732662f789c58b428f3bbe -> github-cli-2.61.0-funtoo-go-bundle-473c5ddf1917336bda140a2ad9611b560f6fdc7c4df965f66af0ba8a3941f4e7a6c84bbdb318e742ac047199076611667541f700227f46a6b4fb5eefa647828a.tar.gz"
 KEYWORDS="*"
 LICENSE="MIT Apache-2.0 BSD BSD-2 MPL-2.0"
 SLOT="0"
@@ -595,7 +595,7 @@ post_src_unpack() {
 }
 
 src_compile() {
-	export GH_VERSION="v2.60.1"
+	export GH_VERSION="v2.61.0"
 	# Go LDFLAGS are not the same as GCC/Binutils LDFLAGS
 	unset LDFLAGS
 	# Once we set up cross compiling, this line will need to be adjusted
