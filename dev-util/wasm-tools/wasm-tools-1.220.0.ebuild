@@ -6,8 +6,8 @@ inherit cargo
 
 DESCRIPTION=" CLI and Rust libraries for low-level manipulation of WebAssembly modules "
 HOMEPAGE="https://github.com/bytecodealliance/wasm-tools"
-SRC_URI="https://github.com/bytecodealliance/wasm-tools/tarball/91be0bbc8c5df685a74d87295e9cfff0be9c07c7 -> wasm-tools-1.219.1-91be0bb.tar.gz
-https://regen.mordor/89/7e/c4/897ec4f67e4cf8bd23c505f0f50fe8640e93968130af3e07a6f1b6b7db8b3a3421d561910ce0f2a6fb6e25fc5f6fc80c24a726965eb6d765df5b09a0b5a6c289 -> wasm-tools-1.219.1-funtoo-crates-bundle-3c4f547a8f6df7258724f633373008cad2794d8c068db67b80b1b9e59a57c84c3b21e5b1c9c6926e9de4ec74aa808e65d15b67a7a6d19d74ed040fc4cdfb39bf.tar.gz"
+SRC_URI="https://github.com/bytecodealliance/wasm-tools/tarball/aab1ac81bb31762509b5ea4b39973070725b5d73 -> wasm-tools-1.220.0-aab1ac8.tar.gz
+https://regen.mordor/84/28/db/8428db0c0c817f70b8d0a778fe2acb8c8da7ea1e2f04d2caf64a040374308f8066b1098420c92b407cf7e94651abe2734dfd18dd9594652d3fd337964117e823 -> wasm-tools-1.220.0-funtoo-crates-bundle-96188214039ea6e1d2c26a41e863d2bf200d26baa0aae396780627e081cebe73b0c08a5fa9867fc6c069751a1ee7df6bc96c725884b0b602328850e795bc5852.tar.gz"
 
 LICENSE="Apache-2.0 Boost-1.0 BSD BSD-2 CC0-1.0 ISC LGPL-3+ MIT Apache-2.0 Unlicense ZLIB"
 SLOT="0"
