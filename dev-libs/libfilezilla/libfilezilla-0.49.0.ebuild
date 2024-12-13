@@ -5,7 +5,7 @@ inherit autotools flag-o-matic
 
 DESCRIPTION="C++ library offering some basic functionality for platform-independent programs"
 HOMEPAGE="https://lib.filezilla-project.org/"
-SRC_URI="https://dl2.cdn.filezilla-project.org/libfilezilla/libfilezilla-0.49.0.tar.xz?h=WnR9zLGebidtXQYCAi5uOw&x=1734131427 -> libfilezilla-0.49.0_src.tar.xz"
+SRC_URI="https://dl2.cdn.filezilla-project.org/libfilezilla/libfilezilla-0.49.0.tar.xz?h=G0Q-Kkf-bIrshozPWATyeg&x=1734135035 -> libfilezilla-0.49.0_src.tar.xz"
 
 LICENSE="GPL-2+"
 SLOT="0"
