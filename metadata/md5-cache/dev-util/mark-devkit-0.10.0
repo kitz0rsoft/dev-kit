@@ -6,5 +6,5 @@ HOMEPAGE=https://github.com/macaroni-os/mark-devkit
 KEYWORDS=*
 LICENSE=GPL-3
 SLOT=0
-SRC_URI=https://github.com/macaroni-os/mark-devkit/tarball/213c84f9d751e1f66bdb9ec7dc119cf8c6123aa6 -> mark-devkit-0.9.1-213c84f.tar.gz
-_md5_=699c062ed4bad778f230d63d7eb91b3c
+SRC_URI=https://github.com/macaroni-os/mark-devkit/tarball/33fb049c02a8aeec417b7f250a6ccf46e5904c8f -> mark-devkit-0.10.0-33fb049.tar.gz
+_md5_=1783eb2f8616c9ecc40c2f9d8fb3c0ed
