@@ -149,8 +149,8 @@ EGO_PN=github.com/git-lfs/git-lfs
 DESCRIPTION="Git extension for versioning large files"
 HOMEPAGE="https://git-lfs.github.com/"
 
-SRC_URI="https://github.com/git-lfs/git-lfs/tarball/a2757524f4cdf5899cf0a9556e2c0e69cb60ede6 -> git-lfs-3.6.0-a275752.tar.gz
-https://regen.mordor/7d/a1/75/7da17541d8fa897e3941b0b57fd6dbc3e975a6afc70d7540a0cb16d302070d45be046c45ef99f75d17bf7632cfceda35ffe732af440f081538faaffc6a368bb3 -> git-lfs-3.6.0-funtoo-go-bundle-4c7c54822c5ad7959b9362d0b714266734c57b7d2fde4d22b3469833a3aa2124710e9f28dbb10adfd43e25c3ca4a33628cbaaa455b98079ecfa3feb2a78f4377.tar.gz"
+SRC_URI="https://github.com/git-lfs/git-lfs/tarball/fefe2ad989840c70bb9f561447d422f17f6c8d5f -> git-lfs-3.6.1-fefe2ad.tar.gz
+https://regen.mordor/bb/cb/f6/bbcbf60d5373c352ce2c011158b9a9b3738d788cbe6493023399d750eba8c47adfa59dddf6cc5ee28ed5952fa88a6441b4e46a89e0e14dd568212cbb9b9de386 -> git-lfs-3.6.1-funtoo-go-bundle-4c7c54822c5ad7959b9362d0b714266734c57b7d2fde4d22b3469833a3aa2124710e9f28dbb10adfd43e25c3ca4a33628cbaaa455b98079ecfa3feb2a78f4377.tar.gz"
 KEYWORDS="*"
 
 LICENSE="Apache-2.0 BSD BSD-2 BSD-4 ISC MIT"
