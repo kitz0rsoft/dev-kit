@@ -7,7 +7,7 @@ inherit bash-completion-r1 cargo
 DESCRIPTION="A more intuitive version of du in rust"
 HOMEPAGE="https://github.com/bootandy/dust"
 SRC_URI="https://github.com/bootandy/dust/tarball/dbd18f90e7b184d12f14533e76e5915dbe4a2051 -> dust-1.1.1-dbd18f9.tar.gz
-https://regen.mordor/96/75/81/967581ab58ae48eca695022870749e4eb9c196f03b15cde2ce47414c421f884d5c80ae87227b3579035aee30b225efd1b0995010ab784ee7441fb875fa19eb6e -> dust-1.1.1-funtoo-crates-bundle-54a0bcdf68182cc3a316b1a00a34e60ee908a97d2e8e011c3c8ab534c95dde4e9179807a2d572f084d251f54e13e31d56b441db8adc107d80e586e74a95f6636.tar.gz"
+https://regen.mordor/d4/22/f9/d422f935df466c7de3e82d95581ee37766f7995f29e60e5667f532138436fbbb3ac17bcded991e0dfe16a01ec42bf1819e595446c439a9d5e8aafc902613f38a -> dust-1.1.1-funtoo-crates-bundle-54a0bcdf68182cc3a316b1a00a34e60ee908a97d2e8e011c3c8ab534c95dde4e9179807a2d572f084d251f54e13e31d56b441db8adc107d80e586e74a95f6636.tar.gz"
 
 LICENSE="Apache-2.0 Boost-1.0 BSD BSD-2 CC0-1.0 ISC LGPL-3+ MIT Apache-2.0 Unlicense ZLIB"
 SLOT="0"

@@ -7,7 +7,7 @@ inherit cargo
 DESCRIPTION="A simple, fast and user-friendly alternative to 'find'"
 HOMEPAGE="https://github.com/sharkdp/fd"
 SRC_URI="https://github.com/sharkdp/fd/tarball/b19136871310b01500b4f09eadd7387b8476be47 -> fd-10.2.0-b191368.tar.gz
-https://regen.mordor/22/19/d0/2219d0eddebb494b005074c2b73411ddf7567ef29442e246f8ce18dfcc6774e4aa8fff9513fde790e211f044aae7480cd531cef2ac4c505d87726234d0382cad -> fd-10.2.0-funtoo-crates-bundle-72b4439aaeab4af7c3f85e36a9e59fa07a0f8c6d924575a51537fc6f3b7898abb48824aeca7591fd7d0174677547853d90d9db5b41c30c693e861bd230e167a7.tar.gz"
+https://regen.mordor/4c/36/d0/4c36d0955f832e5f5ecbb51f6f2873611530f488f2558ed5b15e996dae37d1a0003aa445757f7b45747bf0123ef2d3b2b2ddcd96e6a0e90d3ba416fa863017e5 -> fd-10.2.0-funtoo-crates-bundle-72b4439aaeab4af7c3f85e36a9e59fa07a0f8c6d924575a51537fc6f3b7898abb48824aeca7591fd7d0174677547853d90d9db5b41c30c693e861bd230e167a7.tar.gz"
 
 LICENSE="Apache-2.0 Boost-1.0 BSD BSD-2 CC0-1.0 ISC LGPL-3+ MIT Apache-2.0 Unlicense ZLIB"
 SLOT="0"
