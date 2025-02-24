@@ -5,7 +5,7 @@ inherit toolchain-funcs
 
 DESCRIPTION="A library for emulating x86"
 HOMEPAGE="https://github.com/wfeldt/libx86emu"
-SRC_URI="https://github.com/wfeldt/libx86emu/tarball/87b90fdb9d5ad5e339aedb5d5e9ff4d5ab24087c -> libx86emu-3.6-87b90fd.tar.gz"
+SRC_URI="https://github.com/wfeldt/libx86emu/tarball/ce81129c57fdfbf690bebc210a8db97d926cc5e7 -> libx86emu-3.7-ce81129.tar.gz"
 
 LICENSE="HPND"
 SLOT="0"
