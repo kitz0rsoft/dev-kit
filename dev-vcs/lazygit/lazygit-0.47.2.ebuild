@@ -178,8 +178,6 @@ EGO_SUM=(
 	"github.com/hashicorp/golang-lru v0.5.1/go.mod"
 	"github.com/hpcloud/tail v1.0.0"
 	"github.com/hpcloud/tail v1.0.0/go.mod"
-	"github.com/iancoleman/orderedmap v0.3.0"
-	"github.com/iancoleman/orderedmap v0.3.0/go.mod"
 	"github.com/ianlancetaylor/demangle v0.0.0-20181102032728-5e5cf60278f6/go.mod"
 	"github.com/ianlancetaylor/demangle v0.0.0-20200824232613-28f6c0f3b639/go.mod"
 	"github.com/imdario/mergo v0.3.9/go.mod"
@@ -710,8 +708,8 @@ EGO_SUM=(
 
 go-module_set_globals
 
-SRC_URI="https://github.com/jesseduffield/lazygit/tarball/101bbb0ac56a1cf594301f45bda22c551f1aa870 -> lazygit-0.47.1-101bbb0.tar.gz
-https://regen.mordor/5c/3f/f2/5c3ff2a3f2b76f736c5b5647dfb951cc6be8427569d1279a489c03be3a5b3b6565a8188ac447621e7d6e7cb300d88cea1c068d7a16ae4e9532d804c3dc68f552 -> lazygit-0.47.1-funtoo-go-bundle-52b3feb5dafa5394039dfbf9b94d99acdd7c7519e96bbf6c93113a4a5ade0327e69affdd2094a88aa79a47e8fe6e6af0065065ce344fd67709ea5b172847f963.tar.gz"
+SRC_URI="https://github.com/jesseduffield/lazygit/tarball/4e38a941de3baf9e50d3fd5432933d6efccff091 -> lazygit-0.47.2-4e38a94.tar.gz
+https://regen.mordor/ca/5d/7f/ca5d7f7fbed8e08225882a0ebc37158aebc3cef354e21cfdd1752f1793e980f8df6c383609f6f1c5102693d7ad38e660c9ce4a7a025fddf2c6dd22b2899be03d -> lazygit-0.47.2-funtoo-go-bundle-8011cfe4bfe97996d4d57fc5eeda3d449195ad9b496f6e720e12fa19a57e4fe5bae88626eb95d5967dc4f48f547b0899591b634fd7cd428d279e5830669dc2a5.tar.gz"
 
 DESCRIPTION="A simple terminal UI for git commands"
 HOMEPAGE="http://github.com/jesseduffield/lazygit"
