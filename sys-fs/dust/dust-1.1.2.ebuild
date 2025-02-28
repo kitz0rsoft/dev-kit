@@ -6,8 +6,8 @@ inherit bash-completion-r1 cargo
 
 DESCRIPTION="A more intuitive version of du in rust"
 HOMEPAGE="https://github.com/bootandy/dust"
-SRC_URI="https://github.com/bootandy/dust/tarball/dbd18f90e7b184d12f14533e76e5915dbe4a2051 -> dust-1.1.1-dbd18f9.tar.gz
-https://regen.mordor/d4/22/f9/d422f935df466c7de3e82d95581ee37766f7995f29e60e5667f532138436fbbb3ac17bcded991e0dfe16a01ec42bf1819e595446c439a9d5e8aafc902613f38a -> dust-1.1.1-funtoo-crates-bundle-54a0bcdf68182cc3a316b1a00a34e60ee908a97d2e8e011c3c8ab534c95dde4e9179807a2d572f084d251f54e13e31d56b441db8adc107d80e586e74a95f6636.tar.gz"
+SRC_URI="https://github.com/bootandy/dust/tarball/b24f4c8096557529e63e6fb09fc6ecdb497d153b -> dust-1.1.2-b24f4c8.tar.gz
+https://regen.mordor/36/08/c4/3608c45db0c35218186d43981acb074efdeee0c49bb51e58881e5224f5843e4da162e469587e8e2957f768cb15862d0109c8aad08c60c855b938cf65e3e1315b -> dust-1.1.2-funtoo-crates-bundle-a241bb2a3866a5e148df6ef901dc18695f98415757c3d288efe155f448ef678d498f481a2d2d5cf09c23b01ca1ef0480ea31afb84af72bc26618c865818cf5ad.tar.gz"
 
 LICENSE="Apache-2.0 Boost-1.0 BSD BSD-2 CC0-1.0 ISC LGPL-3+ MIT Apache-2.0 Unlicense ZLIB"
 SLOT="0"
