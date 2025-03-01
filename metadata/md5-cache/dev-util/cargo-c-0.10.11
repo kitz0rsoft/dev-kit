@@ -8,6 +8,6 @@ KEYWORDS=*
 LICENSE=Apache-2.0 Boost-1.0 BSD BSD-2 CC0-1.0 ISC LGPL-3+ MIT Apache-2.0 Unlicense ZLIB
 RDEPEND=sys-libs/zlib dev-libs/openssl:0= dev-vcs/git net-misc/curl[ssl]
 SLOT=0
-SRC_URI=https://github.com/lu-zero/cargo-c/tarball/c6da659efddf1ff1c6e7322f72654f018907cc2d -> cargo-c-0.10.11-c6da659.tar.gz https://regen.mordor/72/f3/8d/72f38ddbaf9730698ddcbdcee123e7d1736273ebb7fcfb9434a100322ba47b0cfaf947779baf6b9099c41e2f1d082ab79d92625ff391d6f0143b920fcf36c289 -> cargo-c-0.10.11-funtoo-crates-bundle-e38e338543f0b83c121d5ae2b8ba3d47ac0267a23cab00e606da78848e56157edeaad70e1a93713141b82a24b31d5503c845c992ba9d9775aeeac4003506cfc8.tar.gz
+SRC_URI=https://github.com/lu-zero/cargo-c/tarball/c6da659efddf1ff1c6e7322f72654f018907cc2d -> cargo-c-0.10.11-c6da659.tar.gz https://regen.mordor/90/a1/fb/90a1fb07d70af5ec9aa625dafdf588b5e1d8f8e56ee83b2a6725094a0e893920e268b6633387b63825a3826ffbc3f677cb856bcaa3bed1fade0888522b36c87c -> cargo-c-0.10.11-funtoo-crates-bundle-93999237b7ac20e9b7c3a79a2df136c3c5feb634b4d149b03a1f0546a7057b8df47760d6272aa768f967d8d5d1554570de50e8243c322611c79ea108797c6375.tar.gz
 _eclasses_=cargo	a3e90d3e6ca8541d967cff212149cffc	multilib	d410501a125f99ffb560b0c523cd3d1e	multiprocessing	cac3169468f893670dac3e7cb940e045	toolchain-funcs	24921b57d6561d87cbef4916a296ada4
-_md5_=05389ed996c917a3460ba3440eb64b72
+_md5_=5b9f87a4c3536832ea9f5c4c4b2e4690
