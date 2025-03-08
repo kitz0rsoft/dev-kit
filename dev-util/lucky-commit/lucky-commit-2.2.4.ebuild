@@ -6,8 +6,8 @@ inherit cargo
 
 DESCRIPTION="Customize your git commit hashes!"
 HOMEPAGE="https://github.com/not-an-aardvark/lucky-commit"
-SRC_URI="https://github.com/not-an-aardvark/lucky-commit/tarball/00000002877d35de410890b322e3f76790706390 -> lucky-commit-2.2.3-0000000.tar.gz
-https://regen.mordor/ba/b0/0d/bab00d89a1532ec6cb651da5078c1d968d84494f9499f72c6706aaa4111d98f7f97e01cd5b3da7eea8d1a3bcc6e043b701ba4b46bc73f06d514ea7d2c8231ae3 -> lucky-commit-2.2.3-funtoo-crates-bundle-bb0f63a6cb9b09dbfea55b0fbc0f1d6d8b9a48c0546e8fa9cb2e6a5226cfc320bb4d6770c96e6fcfb042d8a2cd16affe49edab61cc179beadee2c7d4084a78a8.tar.gz"
+SRC_URI="https://github.com/not-an-aardvark/lucky-commit/tarball/0000000528d30e42901f5650a6597371380c815b -> lucky-commit-2.2.4-0000000.tar.gz
+https://regen.mordor/77/95/7c/77957c076e913ff05af4517c6e22a7c985ca5fdb764ca858d1cb7219082c6ae68c673c0c28200a59248ba35eba14591f0e58c890faaa90fac4004f6c59169b18 -> lucky-commit-2.2.4-funtoo-crates-bundle-bb0f63a6cb9b09dbfea55b0fbc0f1d6d8b9a48c0546e8fa9cb2e6a5226cfc320bb4d6770c96e6fcfb042d8a2cd16affe49edab61cc179beadee2c7d4084a78a8.tar.gz"
 
 LICENSE="MIT"
 SLOT="0"
